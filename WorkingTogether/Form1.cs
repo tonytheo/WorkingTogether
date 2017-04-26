@@ -12,6 +12,7 @@ namespace WorkingTogether
 {
     public partial class Form1 : Form
     {
+        // added a comment
         public Form1()
         {
             InitializeComponent();
