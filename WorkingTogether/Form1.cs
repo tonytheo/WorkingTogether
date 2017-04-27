@@ -12,9 +12,6 @@ namespace WorkingTogether
 {
     public partial class Form1 : Form
     {
-        // added a comment
-        // theodot master comment 1
-
         public Form1()
         {
             InitializeComponent();
